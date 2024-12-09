@@ -77,7 +77,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>todobackend-${version}</finalName>
+		<finalName>todobackend-automatic-${version}</finalName>
 	</build>
 
 
